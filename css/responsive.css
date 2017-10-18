@@ -82,6 +82,6 @@
   }
 
   #navbar nav a.menu-icon {
-    display: none;
+    display: block;
   }
 }
